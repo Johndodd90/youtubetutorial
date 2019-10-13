@@ -1,0 +1,26 @@
+Basic Commands
+$ git init                // Initialize Local Git Repository
+$ git add <file>          // Add File(s) to Index  
+$ git status              // Check Status of Working Tree
+$ git commit              // Commit Changes in Index    
+$ git push                // Push to Remove Repository
+$ git pull                // Pull latest from Remote Repository
+$ git clone               // Clone Repository into a new Directory
+$ git --version
+touch index.html          // creat a file in the current directory called index.html     
+$ git config --global user.name 'John Dodd'
+$ git config --global user.email 'youremail@email.com'  
+ 
+
+
+Tip: 
+When in the Bash console hold Ctrol and scroll to increase/decrease the font size
+ 
+Installing Git
+Linux(Debian) -  $ sudo apt-get install git
+Linux(Fedora) -  $ sudo yum install git 
+Mac           -  http://git-scm.com/download/mac 
+Windows       -  http://git-scm.com/download/win 
+ 
+ 
+ 

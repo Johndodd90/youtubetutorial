@@ -13,6 +13,10 @@ $ git config --global user.name 'John Dodd'
 $ git config --global user.email 'youremail@email.com'  
 $ git commit -m 'Comment here'     // commit and skip the interpreter stage 
 $ clear       // clears console
+$ touch .gitignore
+$ git branch branchname    // create a branch
+$ git checkout branchname  // switch to new branch
+git merge 'branchname'     // merges the branch with the master branch
 
 
 Tip: 
